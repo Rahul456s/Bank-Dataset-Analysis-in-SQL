@@ -141,7 +141,7 @@ SELECT * FROM Transactions;
 ## 👤 Author
 
 **Your Name**
-GitHub: [yourusername](https://github.com/yourusername)
-Email: [youremail@example.com](mailto:youremail@example.com)
+GitHub: [yourusername](https://github.com/Rahul456s)
+Email: [youremail@example.com](mailto:youremail@rahul456shende@gmail.com)
 
 ---
